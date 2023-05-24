@@ -16,11 +16,12 @@ Wenyi Deng1, Jingyi Liu1, Xiheng Wang2, Feiyang Xie1, Shitian Wang1, Xinyu Zhang
 4.Department of General Surgery, Peking Union Medical College Hospital, Peking Union Medical College, Chinese Academy of Medical Sciences, Shuaifuyuan No 1, Wangfujing Street, Dongcheng District, Beijing, 100730, People’s Republic of China. 
 
 # Code Environment：
-python 3.7.0
+python==3.7.0
+
 install the dependencies by the following command:
 
 ```bash
-git clone https://github.com/LiMao-AI/Pancreatic_Cyst_prediction.git
+git clone https://github.com/pancreatic-cystic-lesion/Pancreatic_Cyst_prediction.git
 cd Pancreatic_Cyst_prediction
 pip install -r requirements.txt
 ```
